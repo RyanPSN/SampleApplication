@@ -29,18 +29,6 @@ namespace GetNames1
 
     public class Names
     {
-        public static async Task Task1()
-        {
-            await Task.Delay(5000);
-            Debug.WriteLine("Finished Task 1");
-        }
-
-        public static void Task2()
-        {
-            Task.Delay(5000);
-            Debug.WriteLine("Finished Task 2");
-        }
-
         public static bool isActive = false;
 
         public static void Main(string[] args)
@@ -49,8 +37,6 @@ namespace GetNames1
             GetNames.Names1();
             var t = new Tasks();
             Tasks.GetTasks();
-            Task2();
-
             Console.ReadLine();
         }
     }
