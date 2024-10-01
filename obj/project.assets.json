@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Projects.csproj",
+      "projectUniqueName": "C:\\Users\\Crawz\\OneDrive\\Documents\\GitHub\\SampleApplication\\Projects.csproj",
       "projectName": "Projects",
-      "projectPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\Projects.csproj",
+      "projectPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\GitHub\\SampleApplication\\Projects.csproj",
       "packagesPath": "C:\\Users\\Crawz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\Projects\\obj\\",
+      "outputPath": "C:\\Users\\Crawz\\OneDrive\\Documents\\GitHub\\SampleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Crawz\\AppData\\Roaming\\NuGet\\NuGet.Config",
